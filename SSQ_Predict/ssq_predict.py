@@ -1,8 +1,3 @@
-# @Time    : 2019/07/08 7:55AM
-# @Author  : HGzhao
-# @File    : ssq_predict.py
-
-
 import requests
 from bs4 import BeautifulSoup
 from collections import Counter
